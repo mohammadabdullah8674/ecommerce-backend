@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "This is backend for my Apna shopping app project. I am learning this entire from Coder Dost youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mohammadabdullah8674"
+  },
+  "keywords": [
+    "web",
+    "developer",
+    "backend",
+    "node",
+    "project",
+    "express",
+    "mongoDB"
+  ],
+  "author": "Mohd Abdullah",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
